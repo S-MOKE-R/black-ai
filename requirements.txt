@@ -1,0 +1,12 @@
+# Black AI - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+requests>=2.31.0
+jq>=1.7.0
+
+# GUI (usually built-in with Python)
+# tkinter - comes with Python by default
+
+# Database (built-in)
+# sqlite3 - comes with Python by default
